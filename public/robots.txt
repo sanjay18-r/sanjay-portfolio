@@ -1,0 +1,9 @@
+# Robots.txt for a typical portfolio website
+
+User-agent: *
+Allow: /
+
+# Optionally disallow specific pages if needed
+# Disallow: /admin/
+
+Sitemap: [YOUR_SITEMAP_URL_HERE]

@@ -32,7 +32,7 @@ const Contact = () => {
             <FaGithub />
           </a>
           <a 
-            href="www.linkedin.com/in/sanjay-r-1b5758290" 
+            href="https://www.linkedin.com/in/sanjay-r-1b5758290/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="text-secondary-light hover:text-accent-blue transition duration-300 transform hover:scale-110"

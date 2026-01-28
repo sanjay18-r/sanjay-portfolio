@@ -5,7 +5,7 @@ const About = () => {
   const skills = {
     Frontend: ['React.js', 'Vite', 'TailwindCSS', 'GSAP', 'Three.js'],
     'AI/ML': ['Python', 'OpenCV', 'Tesseract', 'PaddleOCR', 'Pandas', 'Numpy'],
-    Tools: ['Git', 'GitHub', 'Vercel',  'VS Code'],
+    Tools: ['Git', 'GitHub', 'Vercel','VS Code','Docker'],
   };
 
   return (
